@@ -118,7 +118,5 @@ Aprendo com dedicação, curiosidade e paciência, sempre buscando me aperfeiço
 
 </div>
 
----
-
 <p align="center">✨ Criado com 💖 por <b>Paloma Paldino Melo</b> ✨</p>
 
