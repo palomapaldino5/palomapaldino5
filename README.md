@@ -47,11 +47,11 @@ Meu objetivo é crescer na área de <b>Desenvolvimento de Sistemas</b> e contrib
 ---
 
 ## 📚 Em Aprendizado e Prática  
-- 🌐 **Front End:** HTML, CSS, JavaScript, Angular  
-- 🖥️ **Back End:** Python e Django  
-- 🧩 **Metodologias Ágeis:** Scrum com Trello, Jira e Notion  
-- 💾 **Banco de Dados:** MySQL / SQLite  
-- 🔧 **Versionamento:** Git e GitHub  
+🌐 **Front End:** HTML, CSS, JavaScript, Angular  
+🖥️ **Back End:** Python e Django  
+🧩 **Metodologias Ágeis:** Scrum com Trello, Jira e Notion  
+💾 **Banco de Dados:** MySQL / SQLite  
+🔧 **Versionamento:** Git e GitHub  
 
 ---
 
