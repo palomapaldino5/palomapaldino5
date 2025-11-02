@@ -23,13 +23,43 @@ Meu objetivo é crescer na área de <b>Desenvolvimento de Sistemas</b> e contrib
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### 🧠 Linguagens e Frameworks  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+
+---
+
+### ⚙️ Controle de Versão e Colaboração  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
+---
+
+### 📋 Organização e Metodologias Ágeis  
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=plastic&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+
+---
+
+## 📚 Em Aprendizado e Prática  
+- 🌐 **Front End:** HTML, CSS, JavaScript, Angular  
+- 🖥️ **Back End:** Python e Django  
+- 🧩 **Metodologias Ágeis:** Scrum com Trello, Jira e Notion  
+- 💾 **Banco de Dados:** MySQL / SQLite  
+- 🔧 **Versionamento:** Git e GitHub  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+![](https://github-readme-stats.vercel.app/api?username=palomapaldino5&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=palomapaldino5&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=palomapaldino5&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
